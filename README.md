@@ -10,5 +10,6 @@
 - JS
 - PHP
 - C/C++
+- HTML/CSS
 
 [Website](https://www.teker.moe)
