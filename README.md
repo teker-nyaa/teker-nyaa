@@ -11,5 +11,6 @@
 - JS
 - PHP
 - HTML/CSS
+- Haskell
 
 [Website](https://www.teker.moe)
