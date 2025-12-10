@@ -13,4 +13,9 @@
 - HTML/CSS
 - Haskell
 
+## what i'm learning
+
+- Haxe
+- Perl
+
 [Website](https://www.teker.moe)
